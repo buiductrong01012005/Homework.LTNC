@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1710403167 source:c:\users\admin\onedrive\desktop\ltnc\week3\test1\main.cpp
+	<cmath>
+	<cstdio>
+	<vector>
+	<iostream>
+	<algorithm>
+	<string>
+

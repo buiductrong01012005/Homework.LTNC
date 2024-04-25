@@ -1,0 +1,8 @@
+﻿  ConsoleApplication6.cpp
+C:\Users\Admin\OneDrive\Desktop\LTNC\week1\ConsoleApplication6\ConsoleApplication6.cpp(12,11): error C2131: expression did not evaluate to a constant
+C:\Users\Admin\OneDrive\Desktop\LTNC\week1\ConsoleApplication6\ConsoleApplication6.cpp(12,11): message : failure was caused by a read of a variable outside its lifetime
+C:\Users\Admin\OneDrive\Desktop\LTNC\week1\ConsoleApplication6\ConsoleApplication6.cpp(12,11): message : see usage of 'n'
+C:\Users\Admin\OneDrive\Desktop\LTNC\week1\ConsoleApplication6\ConsoleApplication6.cpp(14,13): warning C4552: '>>': result of expression not used
+C:\Users\Admin\OneDrive\Desktop\LTNC\week1\ConsoleApplication6\ConsoleApplication6.cpp(18,14): error C3863: array type 'int [n]' is not assignable
+C:\Users\Admin\OneDrive\Desktop\LTNC\week1\ConsoleApplication6\ConsoleApplication6.cpp(19,22): error C3863: array type 'int [n]' is not assignable
+C:\Users\Admin\OneDrive\Desktop\LTNC\week1\ConsoleApplication6\ConsoleApplication6.cpp(22,22): warning C4552: '<<': result of expression not used

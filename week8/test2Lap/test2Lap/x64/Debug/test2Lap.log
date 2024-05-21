@@ -1,0 +1,2 @@
+﻿  test2Lap.cpp
+C:\Users\Admin\OneDrive\Desktop\LTNC\week8\test2Lap\test2Lap.cpp(79,19): error C4996: 'getenv': This function or variable may be unsafe. Consider using _dupenv_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
